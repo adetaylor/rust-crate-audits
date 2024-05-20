@@ -20,11 +20,13 @@ These audits are automatically aggregated from the following Google projects:
 
 - [ChromiumOS]
 - [Fuchsia]
+- [Chromium browser]
 
 and other [manual sources] from within Google.
 
 [ChromiumOS]: https://chromium.googlesource.com/chromiumos/third_party/rust_crates/+/refs/heads/main/cargo-vet/
 [Fuchsia]: https://fuchsia.googlesource.com/fuchsia/+/refs/heads/main/third_party/rust_crates/supply-chain/
+[Chromium browser]: https://chromium.googlesource.com/chromium/src/+/main/third_party/rust/chromium_crates_io/supply-chain/
 [manual sources]: https://github.com/google/rust-crate-audits/tree/main/manual-sources
 
 ## Disclaimer
